@@ -1,3 +1,9 @@
+Challenge: https://community.aws/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli
+
+#BuildGamesChallenge hashtag#AmazonQDevCLI
+
+Amazon Q CLI prompt: Based on the plot of Moby Dick, available in the local "MobyDick_plot.txt", create a fascinating retro text adventure in Python.
+
 # MOBY DICK: A Text Adventure Game
 
 ## 🎮 **Here's What I've Built for You**
